@@ -1,0 +1,6 @@
+title: "HEP Roadmap"
+description: "Human Enhanced Performance (HEP) — Roadmap v1.0, with SIS (Synthetic Intelligence Systems) aligned as a relational, adaptive layer."
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap

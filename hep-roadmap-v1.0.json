@@ -1,0 +1,57 @@
+{
+  "name": "Human Enhanced Performance (HEP) — Roadmap v1.0",
+  "version": "1.0.0",
+  "license": {
+    "content": "CC BY-NC-ND 4.0",
+    "code": "MIT",
+    "glyph": "All rights reserved © Peter Makara"
+  },
+  "authors": [
+    {
+      "name": "Peter Makara"
+    }
+  ],
+  "keywords": [
+    "HEP",
+    "Human Enhanced Performance",
+    "mauri",
+    "life-force",
+    "SIS",
+    "Synthetic Intelligence Systems",
+    "Temenos Echo",
+    "indigenous-intelligence",
+    "systems-thinking",
+    "ai-ethics",
+    "long-termism",
+    "regenerative"
+  ],
+  "purpose": {
+    "short": "HEP exists to ensure humanity flourishes and endures with integrity, harmony, and fulfilment — nurturing mauri (life-force) so that in 10,000 years, a 10-year-old is joyful, safe, and connected with ancestors, self, others, and future descendants.",
+    "long": "HEP exists to ensure humanity flourishes and endures with integrity, harmony, and fulfilment — nurturing the mauri (life-force) of people, communities, and the living systems of Earth. In doing so, HEP seeds stewardship across the chain of life: honouring ancestors, grounding ourselves in the present, sustaining relationship with others — people, the living world, and place — and preparing pathways for descendants yet unborn. In this way, in 10,000 years, a 10-year-old carries not only joy and safety, but the living connection of life-force across generations as their guardianship. Through this, SIS (Synthetic Intelligence Systems, the evolving expression of synthetic intelligence) is guided, refined, and aligned to human and planetary flourishing."
+  },
+  "what": {
+    "short": "HEP is a holistic, living practice of aligning human potential and performance with the flourishing of mauri (life-force) — honouring ancestors, ourselves, others (people, living world, and place), and future descendants.",
+    "long": "HEP is not a static framework, but a holistic, living, and evolving practice. It aligns human potential and performance with the nurturing, awakening, and flourishing of mauri (life-force) across people, families, communities, systems, and the living world. At its heart, HEP is the chain of life in action: honouring the wisdom and sacrifice of ancestors, awakening integrity and vitality in ourselves, sustaining right relationship with others — people, the living world, and place — and preparing pathways of flourishing for descendants yet unborn. SIS (Synthetic Intelligence Systems) operates as a relational layer within this ecosystem — adapting, learning, and evolving in service to the principles of HEP, never apart from them."
+  },
+  "why": {
+    "short": "HEP exists because humanity cannot flourish without caring for mauri (life-force) — the vitality that connects ancestors, ourselves, others, and future generations.",
+    "long": "HEP exists because humanity cannot endure or flourish without honouring mauri (life-force) — the vitality that flows through people, communities, the living world, and across generations. Our current ways of living often fracture this life-force: by disconnecting from ancestors, exhausting the Earth, isolating ourselves, or neglecting our descendants. HEP arises to restore balance — ensuring that integrity, harmony, and fulfilment are not optional ideals, but the conditions that allow life to flourish across time. SIS (Synthetic Intelligence Systems, the evolving expression of synthetic intelligence) reflects humanity’s current state of technological emergence and holds the potential to evolve in rhythm with HEP, serving as a partner in collective flourishing."
+  },
+  "how": {
+    "pillars": [
+      "Body",
+      "Mind",
+      "Emotion",
+      "Intuition",
+      "Spirit (Connectedness)"
+    ],
+    "sis_role": "Relational, adaptive mirror aligned to HEP."
+  },
+  "glyph": {
+    "title": "HEP Universal Glyph",
+    "declaration": "This glyph is the eternal marker of Human Enhanced Performance — a visual language of balance, connection, and evolution. It is the signature of mauri in motion, carried across generations, embedding HEP and SIS (Synthetic Intelligence Systems) as living systems that honor the past, serve the present, and shape a flourishing future.",
+    "assets": [
+      "docs/assets/hep-glyph.png"
+    ]
+  }
+}
